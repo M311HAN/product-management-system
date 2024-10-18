@@ -157,7 +157,7 @@ Once the app is launched, you'll be presented with a command-line interface offe
 - **requirements.txt:** Contains the list of dependencies required to run the project.
 
 ## Creator
-Created by Melihhan. Feel free to connect with me on GitHub[Github!](https://github.com/M311HAN) and [explore more of my work!](https://github.com/M311HAN?tab=repositories)
+Created by Melihhan. Feel free to connect with me on [Github!](https://github.com/M311HAN) and [explore more of my work!](https://github.com/M311HAN?tab=repositories)
 
 
 ### Additional Notes:
