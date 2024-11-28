@@ -120,7 +120,7 @@ MYSQL_DATABASE=inventory_db
 ```
 
 ## Launching the App
-1. Start your MySQL server.
+1. Start your `MySQL` server.
 2. Run the application in your terminal:
 ```bash
 python3 inventory.py
